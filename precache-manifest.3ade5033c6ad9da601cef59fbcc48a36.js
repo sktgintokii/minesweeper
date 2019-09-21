@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1eec20a1c56c80229c91338dfa504a3c",
+    "revision": "329402d2a42bb61e5871223b9406ba31",
     "url": "/minesweeper/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minesweeper/static/css/2.96121624.chunk.css"
   },
   {
-    "revision": "e2b8bbafff2f1c59e8d9",
+    "revision": "87218b1cedf892410f27",
     "url": "/minesweeper/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minesweeper/static/js/2.8ce5d664.chunk.js"
   },
   {
-    "revision": "e2b8bbafff2f1c59e8d9",
-    "url": "/minesweeper/static/js/main.c62e63fd.chunk.js"
+    "revision": "87218b1cedf892410f27",
+    "url": "/minesweeper/static/js/main.588ffec4.chunk.js"
   },
   {
     "revision": "5c7044c493615d2d6941",
